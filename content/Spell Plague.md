@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Home Page for The Weave Campaign
 ---
 
 This is a blank Quartz installation.
