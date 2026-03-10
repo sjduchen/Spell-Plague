@@ -1,8 +1,6 @@
 ---
-title: Home Page for The Weave Campaign
+title: The Weave 
 ---
-
-This is the Home Page for The Weave Campaign
 
 More content is coming soon. 
 
