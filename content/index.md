@@ -1,8 +1,6 @@
 ---
-title: Welcome to the Campaign Home Page
+title: The story so far: 
 ---
-
-The story so far: 
 
 Session 2: 
 
