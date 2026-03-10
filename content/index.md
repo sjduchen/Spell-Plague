@@ -1,5 +1,5 @@
 ---
-title: The story so far: 
+title: The story so far
 ---
 
 Session 2: 
