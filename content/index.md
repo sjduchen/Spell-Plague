@@ -4,7 +4,7 @@ title: The story so far
 
 Session 2: 
 
-Mason (Alear - The coat rack) and Natasha (M) have joined the party. 
+Mason (Aelar - The coat rack) and Natasha (M) have joined the party. 
 
 Session 1:
 
