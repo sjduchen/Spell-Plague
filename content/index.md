@@ -1,3 +1,3 @@
 ---
-title: hello world
+title: Welcome to the Campaign Home Page
 ---
