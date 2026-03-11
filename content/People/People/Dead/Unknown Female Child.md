@@ -1,0 +1,1 @@
+Cause of death: Spell Plague Ghouls.
