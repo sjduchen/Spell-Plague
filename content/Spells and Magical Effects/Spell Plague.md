@@ -1,8 +1,3 @@
----
-title: Home Page for The Weave Campaign
----
+A plague spread by the [[Blue Flames]] from [[The Weave]]. Those burned by the flames are almost always Spell Plagued. 
 
-This is the Home Page for The Weave Campaign
-
-More content is coming soon. 
-
+Victims appear to be driven to insanity as can be noticed in the [[Spell Plagued Ghouls]].
