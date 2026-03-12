@@ -8,12 +8,12 @@ A Divine Spark is a spiritual essence that can be manifested into a physical obj
 
 There are few known divine sparks:
 
-1) [[Mystryl]]'s spark was split into four when [[Karsus]] attempted to kill her. 
-	1) [[Mystra]] reborn in her place.
+1) [[content/People/Gods/Mystryl]]'s spark was split into four when [[content/People/People/Dead/Karsus]] attempted to kill her. 
+	1) [[content/People/Gods/Mystra]] reborn in her place.
 	2) Divine Spark - Unknown Location
 	3) Divine Spark - Unkown Location
-	4) Divine Spark - Found by [[Honor]] in a chest in [[Mystra's Hall of Echos]].
+	4) Divine Spark - Found by [[content/The Party/Honor]] in a chest in [[content/Places/Waylain and Local Areas/Mystra's Hall of Echos/Mystra's Hall of Echos]].
 
-2) Divine Spark - This one brought the party into [[The Weave]] from [[Talathgard]].
+2) Divine Spark - This one brought the party into [[content/Places/The Weave]] from [[Talathgard]].
 
-3) [[Seldar]]'s spark, shown to the party on their arrival into The Weave.
+3) [[content/People/People/Others/Seldar]]'s spark, shown to the party on their arrival into The Weave.

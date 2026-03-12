@@ -1,7 +1,7 @@
 
 [[Primus]] god of [[Mechanus]] has an interest in control over the weave. 
 
-Primus has learned that this rebirth of [[Mystra]] is going to be far more impactful than any other. This is the first time that there are real threats to Mystra and it is highly likely that a group will manage to claim her power for themselves. 
+Primus has learned that this rebirth of [[content/People/Gods/Mystra]] is going to be far more impactful than any other. This is the first time that there are real threats to Mystra and it is highly likely that a group will manage to claim her power for themselves. 
 
 Primus plans to overthrow Mystra and claim her portfolio as his own, expanding his power beyond that of Mechanus.  
 

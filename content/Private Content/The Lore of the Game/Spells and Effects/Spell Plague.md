@@ -1,6 +1,6 @@
-Spell Plague the representation of magic. [[Blue Flames]] going wild on all planes connected to [[The Weave]] anyone who uses magic in the wrong place or uses the maximum amount of magic possible at once risks being turned into one of the Spell Plagued. Some may get lucky and instead get a [[Spell Scar]] 
+Spell Plague the representation of magic. [[content/Private Content/The Lore of the Game/Spells and Effects/Blue Flames]] going wild on all planes connected to [[content/Places/The Weave]] anyone who uses magic in the wrong place or uses the maximum amount of magic possible at once risks being turned into one of the Spell Plagued. Some may get lucky and instead get a [[content/Private Content/The Lore of the Game/Spells and Effects/Spell Scar]] 
 
-As [[Mystra]] dies the spell plague grows faster, consuming everything around it. 
+As [[content/People/Gods/Mystra]] dies the spell plague grows faster, consuming everything around it. 
 
 Progression Stages
 -----------------------------

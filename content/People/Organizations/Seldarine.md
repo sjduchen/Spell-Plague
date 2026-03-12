@@ -5,5 +5,5 @@ publish: true
 
 Gods over the elves. 
 
-Their leader [[Corellon]] is one of them 
+Their leader [[content/People/Gods/Corellon]] is one of them 
 

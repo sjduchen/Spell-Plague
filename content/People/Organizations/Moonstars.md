@@ -3,6 +3,6 @@ publish: true
 ---
 
 
-A group of like minded individuals who's focus is to protect [[Mystra]].
+A group of like minded individuals who's focus is to protect [[content/People/Gods/Mystra]].
 
-[[Khelben]] is one of them. 
+[[content/People/People/Waylain/Khelben]] is one of them. 

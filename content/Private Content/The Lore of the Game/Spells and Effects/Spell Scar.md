@@ -1,4 +1,4 @@
-Any player damaged by [[Blue Flames]] ue flames is at risk of gaining a spell scar. 
+Any player damaged by [[content/Private Content/The Lore of the Game/Spells and Effects/Blue Flames]] ue flames is at risk of gaining a spell scar. 
 
 Luck Aspect
 ----------------------

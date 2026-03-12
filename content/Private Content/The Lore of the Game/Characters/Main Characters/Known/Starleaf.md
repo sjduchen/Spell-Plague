@@ -13,7 +13,7 @@ Planting the tree of souls in the weave https://forgottenrealms.fandom.com/wiki/
 
 Knows that Mystras death and rebirth is part of the process to stabilize the weave 
 
-An ancient elf who was a child at the time of the [[First Sundering]] as well as the center of its effect. She was the sole survivor of the event. After which she met with [[Corellon]] directly and was given [[The Tree of Souls]]. Corellon told her that where she plants the tree, the power of [[Elven High Magic]] will be restored in the area surrounding the tree.
+An ancient elf who was a child at the time of the [[First Sundering]] as well as the center of its effect. She was the sole survivor of the event. After which she met with [[content/People/Gods/Corellon]] directly and was given [[The Tree of Souls]]. Corellon told her that where she plants the tree, the power of [[Elven High Magic]] will be restored in the area surrounding the tree.
 
-Starleaf has determined that as all magical power flows through The Weave and it is connected to the world already, that it would be the best place to plant the tree.  She journeyed into [[The Weave]] alongside [[Fflar Re-re-reborn]] who was resurrected to guard her and the tree. Once there, they formed [[Waylain]] as a staging town to better understand the weave and determine the best place to plant the tree. 
+Starleaf has determined that as all magical power flows through The Weave and it is connected to the world already, that it would be the best place to plant the tree.  She journeyed into [[content/Places/The Weave]] alongside [[Fflar Re-re-reborn]] who was resurrected to guard her and the tree. Once there, they formed [[content/Places/Waylain and Local Areas/Waylain]] as a staging town to better understand the weave and determine the best place to plant the tree. 
 

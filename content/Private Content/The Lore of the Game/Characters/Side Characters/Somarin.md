@@ -10,10 +10,10 @@ He will cast firebolt once per turn for 3 turns before dying.
 
 Somarin 
 -----------------------
-Brother to [[Solina]] heavily injured and revived by [[Keth]] at the last second aided by [[Honor]]
+Brother to [[content/Private Content/The Lore of the Game/Characters/Side Characters/Solina/Solina]] heavily injured and revived by [[content/The Party/Keth]] at the last second aided by [[content/The Party/Honor]]
 Guided to Talathgard by a stronger wizard friend of theirs 
 
-Keth brought him and his sister into [[The Weave]] and left them to rest in [[Waylain]]
+Keth brought him and his sister into [[content/Places/The Weave]] and left them to rest in [[content/Places/Waylain and Local Areas/Waylain]]
 
 
 

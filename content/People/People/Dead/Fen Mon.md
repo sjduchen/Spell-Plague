@@ -3,11 +3,11 @@ publish: true
 ---
 
 
-A Warlock who greeted [[Keth]], [[Honor]], and a short lived Bard. 
+A Warlock who greeted [[content/The Party/Keth]], [[content/The Party/Honor]], and a short lived Bard. 
 
 He questioned the knowledge of the notes from [[The Order of the Blue Flame]].
 
-He died attempting to save [[Keth]], [[Honor]], a Bard, and [[Unknown Female Child]].
+He died attempting to save [[content/The Party/Keth]], [[content/The Party/Honor]], a Bard, and [[Unknown Female Child]].
 
 After casting a powerful spell her exploded in flames. As he burned alive he used the last bit of his strength to save a Bard. 
 

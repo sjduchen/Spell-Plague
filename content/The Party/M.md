@@ -23,6 +23,6 @@ During my party for my birthday, I went over to Daphne and pulled aside and told
 
 Over the next 6 years I worked very hard to learn the art of druidry. 
 
-While working with the [[Keth]], [[Honor]], and [[Aelar]], she found a journal belonging to [[Khelben]] in [[Mystra's Hall of Echos]]. The journal details the powers of [[Silver Fire]].
+While working with the [[content/The Party/Keth]], [[content/The Party/Honor]], and [[content/The Party/Aelar]], she found a journal belonging to [[content/People/People/Waylain/Khelben]] in [[content/Places/Waylain and Local Areas/Mystra's Hall of Echos/Mystra's Hall of Echos]]. The journal details the powers of [[content/Spells and Magical Effects/Silver Fire]].
 
 #theParty

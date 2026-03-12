@@ -3,7 +3,7 @@ Honor was a cabin boy on a merchant ship, The Silver Sylf, that was attacked by 
 
 (Could I swap his Aboleth, with a Phaerimm? Phaerimm Attacking the sword coast, looking for those connected to Mystra would make sense if they seek to also take control https://forgottenrealms.fandom.com/wiki/Aboleth)
 
-Currently in possession of [[Mystryl]]'s divine sparks: 
+Currently in possession of [[content/People/Gods/Mystryl]]'s divine sparks: 
 
 1) [[Boundless]] - disguised among his many daggers, this spark was the one that brought the party into the weave. 
 2) [[Foresight]] - wrapped in 50 feet of silk rope and stored blocking his heart. 

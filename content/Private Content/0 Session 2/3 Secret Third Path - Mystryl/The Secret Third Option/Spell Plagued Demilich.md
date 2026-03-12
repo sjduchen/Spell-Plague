@@ -1,5 +1,5 @@
 
-A lich who was under the control of [[Larloch]], but had his phylactery corrupted by [[Blue Flames]]. 
+A lich who was under the control of [[content/People/People/Dead/Larloch]], but had his phylactery corrupted by [[content/Spells and Magical Effects/Blue Flames]]. 
 
 The Lich has been driven completely mad and has stopped communicating with anyone. 
 

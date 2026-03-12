@@ -6,7 +6,7 @@ He’s a monk who willingly came to the aid of the entire situation of the weave
 Ki in dnd is a kind of magic that isn’t actual magic, so perhaps it’s application toward the weave might be something of merit 
 
 
-Effected by [[Spell Scar]] it runs across his face diagonally from above his left eye to right cheek. 
+Effected by [[content/Spells and Magical Effects/Spell Scar]] it runs across his face diagonally from above his left eye to right cheek. 
 
 
 (Not fully connected to the weave and Ki is explicitly independent of the weave unless stated explicitly https://rpg.stackexchange.com/questions/76005/does-ki-count-as-magic-for-the-purpose-of-an-antimagic-field-or-is-it-only-fluf) 

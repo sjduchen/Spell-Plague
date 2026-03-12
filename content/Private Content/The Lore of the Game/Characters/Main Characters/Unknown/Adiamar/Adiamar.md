@@ -1,2 +1,2 @@
 #anchor
-[[Anchor]] for [[Seldar]]
+[[Anchor]] for [[content/People/People/Others/Seldar]]

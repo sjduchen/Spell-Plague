@@ -1,3 +1,3 @@
-An organization dedicated to serving and protecting [[Mystra]]
+An organization dedicated to serving and protecting [[content/People/Gods/Mystra]]
 
-It's members include [[Khelben]], [[Winter Zulth]], [[Mistmaster]]
+It's members include [[content/People/People/Waylain/Khelben]], [[Winter Zulth]], [[Mistmaster]]

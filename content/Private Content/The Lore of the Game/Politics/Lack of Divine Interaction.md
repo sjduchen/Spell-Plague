@@ -7,5 +7,5 @@ Most of the gods held back their interaction out of fear that if Mysta falls the
 
 Long term this will also lead to the Second Time of Troubles where gods return to the mortal plane. 
 
-[[Corellon]] a known ally of Mystra has stayed out of this rebirth and refuses to acknowledge his worshipers in this time. 
+[[content/People/Gods/Corellon]] a known ally of Mystra has stayed out of this rebirth and refuses to acknowledge his worshipers in this time. 
 

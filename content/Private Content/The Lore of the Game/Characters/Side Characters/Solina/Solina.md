@@ -15,6 +15,6 @@ The first NPC the players see. If they assist their fight, Solina will join thei
 
 Level 1 wizard 
 
-Sister to [[Somarin]]
+Sister to [[content/People/People/Waylain/Somarin]]
 
-She was revived by [[Keth]], aided by [[Honor]], along with her brother and brought into [[The Weave]] and left safely in the town of [[Waylain]]
+She was revived by [[content/The Party/Keth]], aided by [[content/The Party/Honor]], along with her brother and brought into [[content/Places/The Weave]] and left safely in the town of [[content/Places/Waylain and Local Areas/Waylain]]
