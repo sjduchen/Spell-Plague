@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 Not an explicit "Organization" but rather any individual selected by a god to represent them. 
 
 [[Mystra]]'s chosen [[Khelben]] represents her.

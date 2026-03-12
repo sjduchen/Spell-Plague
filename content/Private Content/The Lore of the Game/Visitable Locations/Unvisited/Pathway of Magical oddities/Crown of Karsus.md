@@ -1,0 +1,1 @@
+https://forgottenrealms.fandom.com/wiki/Crown_of_Karsus#Video_Games

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 
 Those harmed by [[Blue Flames]] are often [[Spell Plague]]d. 
 

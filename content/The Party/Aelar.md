@@ -1,3 +1,8 @@
+---
+publish: true
+---
+
+
 (The Coat-Rack)
 
 He’s a monk who willingly came to the aid of the entire situation of the weave, after a man approached his monastery and his master sent him away not wanting any of his students to fall prey to this calamity, my character left the monastery to chase after the man and offer to help. 

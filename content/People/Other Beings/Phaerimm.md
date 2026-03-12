@@ -1,3 +1,8 @@
+---
+publish: true
+---
+
+
 A mysterious beast like race. 
 
 They appear to be the same as the creature that attacked [[Honor]]'s ship. 

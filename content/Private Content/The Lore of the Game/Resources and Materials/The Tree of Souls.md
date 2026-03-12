@@ -1,0 +1,2 @@
+It stood in a shallow bowl that appeared to be carved out of a single blue-green [gem](https://forgottenrealms.fandom.com/wiki/Gem "Gem"). Touching it bestowed an incredible sense of love and recognition from those elven souls within 
+(https://forgottenrealms.fandom.com/wiki/Tree_of_Souls#cite_note-E:IoE-p161-2)

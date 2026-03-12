@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 A temple about an hour east of [[Waylain]]. 
 
 Inside one can learn of the history of [[Mystra]] and how she came to be.

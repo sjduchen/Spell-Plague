@@ -1,0 +1,3 @@
+Players gain direction from Starleaf on how they can aid Seldar. 
+1) To the northwest, there is a cave filled with monsters, inside is a High Elf similar in strength to Seldar he has been captured and cannot free himself. The elf is a critical part of Seldar's Plan to Usurp Mystra, Starleaf disapproves of the endeavor and asks the party if they are loyal to Seldar's Ideal of restoring the elves or simply Obedient to his demands
+	1) Loyalty: If they players are loyal they are instead presented the option of Aiding Starleaf. (This Option Leads the party into )

@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 (Full name = Morgana)
 
 This is what I have for my background:
