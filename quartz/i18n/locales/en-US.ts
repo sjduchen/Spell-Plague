@@ -67,11 +67,11 @@ export default {
     },
     error: {
       title: "Not Found",
-      notFound: "Either this page is private or doesn't exist.",
+      notFound: "You shouldn't know this yet! If you should let me know!",
       home: "Return to Homepage",
     },
     folderContent: {
-      folder: "Folder",
+      folder: "",
       itemsUnderFolder: ({ count }) =>
         count === 1 ? "1 item under this folder." : `${count} items under this folder.`,
     },
