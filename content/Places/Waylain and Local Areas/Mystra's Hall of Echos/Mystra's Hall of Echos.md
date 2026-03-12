@@ -13,6 +13,4 @@ In a secret room hidden beneath a chest the party heard [[content/People/Gods/My
 
 I am Mystryl, the true Goddess of [[content/Places/The Weave]]and [[content/People/People/Dead/Karsus]] can not truly slay me. I know not when one will hear my message or the exact scenario that will play out when Karsus decides to Act. But I do know that my [[content/Artifacts/Divine Spark]] will be split, and the weakness of my successor will be necessary to bring balance to the weave. The chaos of her tending shall draw many powers into my domain, They will all be necessary. The [[Netherese]], [[content/People/Other Beings/Phaerimm]], Elves, Undead, and even one of my [[Chosen]] Gather them and bring them to where my largest spark, Mystra, will be under attack.  "
 
-
-
-![[Pasted image 20260311202836.png]]
+![[Mystra's Hall of Echos.png]]
