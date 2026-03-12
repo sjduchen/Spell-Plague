@@ -1,6 +1,5 @@
 ---
 publish: "True"
-draft: true
 ---
 
 
