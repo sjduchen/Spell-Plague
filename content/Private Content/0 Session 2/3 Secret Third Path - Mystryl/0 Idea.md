@@ -1,1 +1,0 @@
-Larloch one of Mystryl's chosen finds the party if they decide they want nothing to do with anyone or if they find themselves in possession of any of Mystryls spark  fragments

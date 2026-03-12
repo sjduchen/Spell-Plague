@@ -1,1 +1,0 @@
-Beneath the door and 50 feet forming a square, smooth uninterrupted concrete covers the ground.  To the left a stairway 
