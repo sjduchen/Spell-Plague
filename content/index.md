@@ -2,7 +2,6 @@
 title: The story so far
 publish: true
 ---
-
 **Session 2:** 
 
 [[Aelar]] and [[M]] join party.

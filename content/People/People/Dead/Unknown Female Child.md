@@ -1,5 +1,4 @@
 ---
 publish: true
 ---
-
-Cause of death: Spell Plague Ghouls.
+Cause of death: [[Spell Plagued Ghouls]]

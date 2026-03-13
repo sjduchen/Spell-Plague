@@ -1,8 +1,6 @@
 ---
 publish: true
 ---
-
-
 A Warlock who greeted [[Keth]], [[Honor]], and a short lived Bard. 
 
 He questioned the knowledge of the notes from [[The Order of the Blue Flame]].

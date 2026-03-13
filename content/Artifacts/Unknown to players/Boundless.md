@@ -1,4 +1,4 @@
-[[Mystryl]]'s [[Divine Spark]] representing her chaotc creativity. This spark was the same one the brought the party into [[The Weave]] from [[Talathgard]]. 
+[[Mystryl]]'s [[Divine Spark]] representing her chaotc creativity. This spark was the same one the brought the party into [[The Weave]] from [[content/Places/Talathgard]]. 
 
 As it completed the journey into The Weave, it left behind an adaptive dagger known as [[The Weaver]].
 

@@ -11,6 +11,6 @@ There are few known divine sparks:
 	3) Divine Spark - Unkown Location
 	4) Divine Spark - Found by [[Honor]] in a chest in [[Mystra's Hall of Echos]].
 
-2) Divine Spark - This one brought the party into [[The Weave]] from [[Talathgard]].
+2) Divine Spark - This one brought the party into [[The Weave]] from [[content/Places/Talathgard]].
 
 3) [[Seldar]]'s spark, shown to the party on their arrival into The Weave.

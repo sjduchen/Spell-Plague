@@ -1,7 +1,6 @@
 ---
 publish: true
 ---
-
 A powerful High Elf chosen by the council of High Elves to replace [[Mystra]], both to restore what was lost during [[The Sundering]] and bring order to [[The Weave]]. The elves believe her constant struggles leave its power at risk. 
 
 His [[Divine Spark]] allows him to claim the power of Mystra without being destroyed. 

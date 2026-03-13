@@ -1,8 +1,6 @@
 ---
 publish: true
 ---
-
-
 Blackstaff 
 
 A [[Chosen]] of [[Mystra]]. He entered [[The Weave]] aided by [[Starleaf]] along side [[M]] who was brought in on accident. 
