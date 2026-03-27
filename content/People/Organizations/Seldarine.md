@@ -1,7 +1,6 @@
 ---
 publish: true
 ---
-Gods over the elves. 
+The Elven Pantheon of Gods, lead by [[Corellon]]. 
 
-Their leader [[Corellon]] is one of them 
-
+Not much is known about their involvement at this time. 

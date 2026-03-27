@@ -1,8 +1,11 @@
 ---
 publish: true
 ---
-The Goddess who tends [[The Weave]] Re-born in the place of [[Mystryl]] following her death. 
+The events surrounding the beginning of her death are the focus of this campaign.
 
-She has a group of her [[Chosen]], including [[Khelben]]
+The Goddess who tends [[The Weave]] reborn in the place of [[Mystryl]] following her death. 
 
-She is the focus of the story. 
+She has a group of her [[Chosen]], including [[Khelben]] who serve her interests. They appear to have primarily worked out of [[Mystra's Hall of Echos]].
+
+
+

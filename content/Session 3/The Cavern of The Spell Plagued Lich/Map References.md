@@ -5,7 +5,7 @@
 4) The Mummy, players can avoid by staying out of the light
 5) Secret Passage to the Liches bedroom and prisoner section
 6) The meat pile: in the small outcropping carved out of the cavern walls is a large pile of meat. The space a combined 15 square feet is filled floor to ceiling, the chunks cling together and while unclear what this meat is from, it is clear that it is made from many different creatures.  (4 Damaged Flesh Golems Wedged Together, Trying to merge or 1 Flesh Golem)
-7)  A secret wall any player sliding their hand along the wall or cautiously watching their path (dc 10 investigation with dark vision or a light source, dc 20 without) will find a small stone protruding from the wall by about an inch. (Players will gain 500xp for locating the room) 
+7)  A secret wall any player sliding their hand along the wall or cautiously watching their path (dc 10 investigation with dark vision or a light source, dc 20 without) will find a small stone protruding from the wall by about an inch. (Players will gain 500xp for locating the room) The entrance room has a small table with a journal opened on it. see [[Liches Note]]
 8) Each corner holds about 50 gold coins
 9) The store of Glass Steel: Incredibly light and scattered around the party finds 2d8 ingots. 
 10) A portrait of Larloch (use image in reference photos)

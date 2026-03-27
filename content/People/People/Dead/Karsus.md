@@ -5,6 +5,6 @@ An ancient [[Netherese]] wizard who attempted to usurp [[Mystryl]]. He failed to
 
 For a brief moment he held the power of a god before it killed him. 
 
-He exists trapped to exist as a red boulder.
+He exists as a red boulder suffering for eternity in the woods beneath the site of his battle. 
 
 Some believe that [[Karsus's Apprentice]] actually existed and escaped with his notes.

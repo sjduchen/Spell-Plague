@@ -1,5 +1,8 @@
+Vysaria Telunwe
 
-An ancient sea-elf, thousands of years old. She was raised by [[Karsus]] after her family rejected her for her incredible magical power. 
+An ancient sea-elf, thousands of years old. 
+
+Raised by [[Karsus]] after her family rejected her for her incredible magical power. 
 
 The Sea Elves, an already reclusive race wrote away all notices of her existence after she left, ashamed of her magical proficiency and how it connected her to the other elven races. 
 

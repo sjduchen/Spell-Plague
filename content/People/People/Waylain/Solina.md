@@ -2,7 +2,7 @@
 publish: true
 ---
 
-An elven woman the party met inside of [[content/Places/Talathgard]] after escaping from a horde of [[Spell Plagued Ghouls]] 
+An elven woman the party met inside of [[Talathgard]] after escaping from a horde of [[Spell Plagued Ghouls]] 
 
 The party found her fighting for her life next to her dying brother [[Somarin]].
 

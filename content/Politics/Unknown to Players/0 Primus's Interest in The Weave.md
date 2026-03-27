@@ -5,7 +5,7 @@ Primus has learned that this rebirth of [[content/People/Gods/Mystra]] is going 
 
 Primus plans to overthrow Mystra and claim her portfolio as his own, expanding his power beyond that of Mechanus.  
 
-At the start of the game his army of Modrones was collecting books from the [[High Temple of Mystra]] inside [[content/Places/Talathgard]].  Players saw into the planar portal and witnessed armies of Modrones being organized by a [[Secundi]].
+At the start of the game his army of Modrones was collecting books from the [[High Temple of Mystra]] inside [[Talathgard]].  Players saw into the planar portal and witnessed armies of Modrones being organized by a [[Secundi]].
 
 Primus has modrones in the area protecting knowledge both inside and outside of the weave. 
 
