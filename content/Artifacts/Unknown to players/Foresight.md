@@ -2,4 +2,7 @@ This [[Divine Spark]] belonging to [[Mystryl]] is how she can foretell the futur
 
 Found by the party inside a chest (room 7 on the map) the located in [[Mystra's Hall of Echos]]
 
+Attuned: You gain +3 on initiative rolls, once per day you can can change swap out one prepared spell as a free action. 
+
+True Attunement: You have advantage. 
 #artifacts 

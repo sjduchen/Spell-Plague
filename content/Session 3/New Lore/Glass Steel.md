@@ -1,0 +1,1 @@
+An ancient material formed by a rare species of elf, Glassteel is an incredibly strong glass material. 

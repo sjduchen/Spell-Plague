@@ -9,24 +9,26 @@ How are the players enabled to follow a path:
 	1) Learn: her main goal Plant the [[The Tree of Souls]] Inside the Shadow Weave at the site of Sundering, this will connect [[The Weave]] and [[The Shadow Weave]]. 
 	2) Progress Starleaf: Disable the threat inside the nearby cave so they can travel towards the [[The Sundered Chasm]].
 	3) Progress Seldar: Learn of the Elf who visited Waylain prior, who is likely trapped inside. 
-2) Seldar has acquaintances in Waylain who know his Symbol:
+2) [[Seldar]] has acquaintances in Waylain who know his Symbol:
 	1) Learn: other people in [[Waylain]] know that an elf passed through recently. Heading towards the cavern nearby. 
 	2) Progress Seldar: Free 
-3) Following the guided path to Larloch -> Mystryls path. 
+3) [[Mystryl]]'s [[Chosen]] [[Larloch]] will guide the party 
+	1) Aid: Larloch by cleansing the phylactery of a subordinate lich so he can get the information it had obtained for him.  
 
 
 
 What will players have to do if continuing down a path: 
 1) Aid Starleaf: neutralize the threat in the mountain cave system. 
 	1) Stabilizing the weave has left her in a weakened state, shes no weakling but the power she felt through the weave while stabilizing it was enough to be concerned. 
-2) Aid Larloch: return control of the Lich through his phylactory in the mountain cave system. 
+2) Aid Larloch: return control of the Lich through his phylactory in the mountain cave system
 	1) The Lich is not in the cavern but the phylactery is. Larloch will provide the party with a 
 	    twisted helix metal candle holder and a single match
 		1) How does the magical deus ex item work? 
 			1) The metal will twist apart creating a space to insert the phylactery. Once inserted it will coil tightly shut with the remaining lengths of metal spiking straight up leaving an opening to insert the candle. 
 			2) The match need not be struck, but rather pressed against the wick of the candle and it will ignite with a pure white flame, Mystryls flame. 
 3) Aid Seldar: The party will have to press Starleaf or Fflar regarding what Seldar wants and they will at best be able to assume that the traces of elven magic coming from the cave have something to do with it. 
-	1) In the cave the party will find Seldar's Anchor. 
+	1) In the cave the party will find Seldar's Anchor [[0 Adiamar]]. 
+	2) Adiamar will ask the party to aid her return to Seldar at the [[The Sundered Chasm]]. 
 
 
 What happens if the players follow a path:

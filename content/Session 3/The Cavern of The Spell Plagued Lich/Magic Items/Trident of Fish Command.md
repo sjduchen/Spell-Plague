@@ -1,0 +1,1 @@
+True Attunement: DC jumps to 20 and remove the word "beast" from casting restriction, charges increase to 4. 

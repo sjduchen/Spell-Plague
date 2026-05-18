@@ -1,7 +1,7 @@
 
 #mystryl  is the original goddess of [[The Weave]]. Three thousand years ago she allowed herself to die to [[Karsus]], knowing that her rebirth would repair the structure of the weave. 
 
-Mystryl's [[content/Artifacts/Divine Spark]] was split into several pieces and spread throughout the weave. 
+Mystryl's [[Divine Spark]] was split into several pieces and spread throughout the weave. 
 
 Her spark was split into fourpieces: 
 

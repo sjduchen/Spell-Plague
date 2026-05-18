@@ -5,4 +5,4 @@ The Goddess who overseas [[content/Places/The Weave]]. She was reborn in place o
 
 Mystra's power is represented by [[content/Spells and Magical Effects/Blue Flames]] that are the manifestation of magic. 
 
-Mystra is only a partial rebirth of Mystryl and makes up the remainder of her [[content/Artifacts/Divine Spark]]. 
+Mystra is only a partial rebirth of Mystryl and makes up the remainder of her [[Divine Spark]]. 

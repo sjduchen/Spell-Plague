@@ -1,0 +1,1 @@
+a circle of 7 stars floating in a red mist. 
