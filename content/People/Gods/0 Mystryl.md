@@ -5,9 +5,9 @@ Mystryl's [[Divine Spark]] was split into several pieces and spread throughout t
 
 Her spark was split into fourpieces: 
 
-1) [[Boundless]]: The spark of her limitless creative powers.
-2) [[Foresight]]: The spark released from the chest (position 7) in [[Mystra's Hall of Echos]] 
-3) [[Chronicle]]: This spark is woven deep into the [[The Knotted Lands]], ancient magical powers having bound and buried it. 
+1) [[content/Magical Artifacts/Unknown to players/Boundless]]: The spark of her limitless creative powers.
+2) [[content/Magical Artifacts/Unknown to players/Foresight]]: The spark released from the chest (position 7) in [[Mystra's Hall of Echos]] 
+3) [[content/Magical Artifacts/Unknown to players/Chronicle]]: This spark is woven deep into the [[The Knotted Lands]], ancient magical powers having bound and buried it. 
 4) [[Mystra]], the living portion of Mystryl, though unaware of what she is, Mystra knows that something inside of her is missing. 
 
 [[The Chosen]] 
